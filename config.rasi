@@ -1,0 +1,13 @@
+configuration {
+	font: "hack 13";
+	padding: 20;
+	line-padding: 2;
+	separator-style: "none";
+	hide-scrollbar: true;
+	
+	color-normal: "#20202A, #484F7D, #20202A, #20202A, #ff2e97";
+	color-urgent: "argb:00000000, #ff2e97, argb:00000000, argb:00000000, #aa000000";
+	color-active: "argb:00000000, #ff2e97, argb:00000000, argb:00000000, #aa000000";
+	color-window: "#20202A, #20202A, #0D73F8";
+	kb-cancel: "Escape,Alt+F1";
+}
